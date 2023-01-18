@@ -1,3 +1,2 @@
 am adaugat din primul branch facut de mine
-asta ii al doilea comit din branch
-acesta este alt ceva 
+asta ii al doilea comit din branch dar l-am modificat acuma
